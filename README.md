@@ -17,8 +17,8 @@ I'm a passionate DevOps Engineer with two years of hands-on experience optimizin
 
 ### 🛠️ Technologies & Tools:
 - **CI/CD**: Jenkins, GitLab CI, CircleCI, GitHub Actions
-- **Cloud Providers**: AWS, GCP, Azure
-- **Configuration Management**: Ansible, Chef
+- **Cloud Providers**: AWS
+- **Configuration Management**: Ansible
 - **Infrastructure as Code (IaC)**: Terraform, CloudFormation
 - **Containerization & Orchestration**: Docker, Kubernetes
 - **Monitoring**: Prometheus, Grafana, ELK Stack
